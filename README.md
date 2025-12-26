@@ -1,0 +1,1 @@
+BLASTn analysis revealed that the query DNA sequence shows 100% identity and 100% query coverage with NM_001309117.1, corresponding to the protein lethal(2) essential for life-like gene from Plutella xylostella. The E-value of 0.0 indicates a highly significant match, confirming that the query sequence represents this gene.
